@@ -1,0 +1,14 @@
+ul {
+  display: flex;
+  list-style-type: none;
+  margin: 2;
+  padding: 2;
+  /* overflow: hidden; */
+  background-color: #f9f9f9;
+}
+
+.navbar {
+  display: flex;
+  color: blue;
+  background-color: #f9f9f9;
+}
